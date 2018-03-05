@@ -24,3 +24,7 @@ There will be a number of challenges available that will build on and help you r
 
 	- You have only one restriction -- and that's integrity -- you shouldn't copy or take code that was written by someone else. Programming is problem solving, and you need to think through the problems you encounter to get the results you desire. Sometimes it helps to understand how someone else would solve a problem, so I encourage you to talk with each other and read through examples, but don't just take someone else's code and pass it off as your own.  
 
+3. Collisions
+
+	- Recently you learned how to create a collision. Can you create a window where two objects float around at random and know when they collide with each other?
+
